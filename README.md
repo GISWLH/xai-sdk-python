@@ -1,3 +1,7 @@
+<!-- readme-visual-refresh:banner -->
+![xai-sdk-python — hand-drawn project banner](assets/readme/banner.svg)
+<!-- /readme-visual-refresh:banner -->
+
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/130314967?s=200&v=4" alt="xAI Logo" width="100" />
   <h1>xAI Python SDK</h1>
@@ -586,3 +590,7 @@ The xAI SDK is distributed under the Apache-2.0 License
 ## Contributing
 
 See the [documentation](/CONTRIBUTING.md) on contributing to this project.
+
+<!-- readme-visual-refresh:artwork-source -->
+[Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
+<!-- /readme-visual-refresh:artwork-source -->
