@@ -1,0 +1,12 @@
+{
+  "repo": "GISWLH/xai-sdk-python",
+  "environment": "EHPC PBS",
+  "execution_scope": "Original SDK PollTimer helper exercised offline. This demonstrates the local timer utility only; no xAI API request or generated model output is involved.",
+  "exit_code": 0,
+  "output": {
+    "path": "assets/readme/execution-result.png",
+    "sha256": "34e0d88e670e0c6f4e6a5c6ca8560596eaa9a96059e88eff56f8b190f56c2b75"
+  },
+  "browser": "Firefox 91.10 ESR",
+  "source_modified": false
+}

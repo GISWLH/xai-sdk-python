@@ -594,3 +594,14 @@ See the [documentation](/CONTRIBUTING.md) on contributing to this project.
 <!-- readme-visual-refresh:artwork-source -->
 [Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
 <!-- /readme-visual-refresh:artwork-source -->
+
+
+<!-- readme-visual-refresh:execution -->
+## Demonstration captured on EHPC · 17 October 2026
+
+![Original SDK PollTimer helper exercised offline. This demonstrates the local timer utility only; no xAI API request or generated model output is involved.](assets/readme/execution-result.png)
+
+Original SDK PollTimer helper exercised offline. This demonstrates the local timer utility only; no xAI API request or generated model output is involved.
+
+[Execution record and checksums](assets/readme/execution-record.json).
+<!-- /readme-visual-refresh:execution -->
